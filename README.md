@@ -9,7 +9,7 @@ Final year BSc of Computer Science student at the **University of Niš**.
 - System programming
 
 ## Technology Stack
-- **Languages:** C/C++, C#, Python, Kotlin, Java
+- **Languages:** C/C++, C#, Python, Kotlin, Java, JavaScript
 - **Frameworks & Platforms:** .NET, ASP.NET Core, Jetpack Compose
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **APIs:** REST APIs, gRPC API, GraphQL
