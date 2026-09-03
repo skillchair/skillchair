@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Andrija Grbušić 👋
 
-<!--
-**skillchair/skillchair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year BSc of Computer Science student at the **University of Niš**.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in low-level systems
+- Backend programming
+- Operating systems
+- System programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack
+- **Languages:** C/C++, C#, Python, Kotlin, Java, JavaScript
+- **Frameworks & Platforms:** .NET, ASP.NET Core, Jetpack Compose
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **APIs:** REST APIs, gRPC API, GraphQL
+- **Tools:** Docker, Git, Linux, Bash
+- **Development Approach:** Skilled with AI-assisted development
+
+## Languages
+- Serbian: **5/5**
+- English: **5/5**
+
+## Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e60cbfe-046e-4066-ad89-c109e731c315" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd474052-c93d-4fb3-9e43-b534f910f8ad" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
