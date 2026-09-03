@@ -22,10 +22,6 @@ Final year BSc of Computer Science student at the **University of Niš**.
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/9e60cbfe-046e-4066-ad89-c109e731c315/public_url">
-  CCNA: Introduction to Networks
-</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e60cbfe-046e-4066-ad89-c109e731c315" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<a href="https://www.credly.com/badges/dd474052-c93d-4fb3-9e43-b534f910f8ad/public_url">
-  Linux Essentials
-</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd474052-c93d-4fb3-9e43-b534f910f8ad" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
