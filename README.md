@@ -17,7 +17,6 @@ I care about backend development, system programming and clean, safe, optimized 
 ## 🌱 Currently
 
 - Attending **Cisco Networking Academy CCNA2**
-- Attending **Python Essentials**
 - Looking to apply my knowledge in a real technical environment
 
 ---
