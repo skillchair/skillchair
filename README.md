@@ -94,13 +94,16 @@ I care about backend development, system programming and clean, safe, optimized 
   <a href="https://www.credly.com/badges/dd474052-c93d-4fb3-9e43-b534f910f8ad" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="120" alt="Linux Essentials" />
   </a>
+  <a href="https://www.credly.com/badges/62b42412-7a45-4cd0-a7a2-5791cf074d8c" target="_blank">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" width="120" alt="Python Essentials 1" />
+  </a>
 </p>
 
 - CCNA1: Introduction to Networks
 - Linux Essentials
-- [Credly badge: NAZIV SERTIFIKATA](https://www.credly.com/badges/62b42412-7a45-4cd0-a7a2-5791cf074d8c)
+- [Python Essentials 1](https://www.credly.com/badges/62b42412-7a45-4cd0-a7a2-5791cf074d8c)
 - CCNA2: Switching, Routing and Wireless Essentials *(in progress)*
-- Python Essentials *(in progress)*
+- Python Essentials 2 *(in progress)*
 
 ---
 
