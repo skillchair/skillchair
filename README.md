@@ -89,13 +89,13 @@ I care about backend development, system programming and clean, safe, optimized 
 
 <p align="left">
   <a href="https://www.credly.com/badges/9e60cbfe-046e-4066-ad89-c109e731c315" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" height="120" alt="CCNA: Introduction to Networks (CCNA1)" />
+    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="130" height="130" alt="CCNA: Introduction to Networks (CCNA1)" />
   </a>
   <a href="https://www.credly.com/badges/dd474052-c93d-4fb3-9e43-b534f910f8ad" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="120" height="120" alt="Linux Essentials" />
+    <img src="https://images.credly.com/size/680x680/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="130" height="130" alt="Linux Essentials" />
   </a>
   <a href="https://www.credly.com/badges/62b42412-7a45-4cd0-a7a2-5791cf074d8c" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" width="120" height="120" alt="Python Essentials 1" />
+    <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="130" height="130" alt="Python Essentials 1" />
   </a>
 </p>
 
