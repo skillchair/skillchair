@@ -98,6 +98,7 @@ I care about backend development, system programming and clean, safe, optimized 
 
 - CCNA1: Introduction to Networks
 - Linux Essentials
+- [Credly badge: NAZIV SERTIFIKATA](https://www.credly.com/badges/62b42412-7a45-4cd0-a7a2-5791cf074d8c)
 - CCNA2: Switching, Routing and Wireless Essentials *(in progress)*
 - Python Essentials *(in progress)*
 
