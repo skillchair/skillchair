@@ -102,11 +102,10 @@ I care about backend development, system programming and clean, safe, optimized 
   </a>
 </p>
 
-- CCNA1: Introduction to Networks
-- Linux Essentials
+- [CCNA1: Introduction to Networks](https://www.credly.com/badges/9e60cbfe-046e-4066-ad89-c109e731c315/public_url)
+- [CCNA2: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/22474045-bc57-437a-8318-23dacd9ed30c/public_url)
+- [Linux Essentials](https://www.credly.com/badges/dd474052-c93d-4fb3-9e43-b534f910f8ad/public_url)
 - [Python Essentials 1](https://www.credly.com/badges/62b42412-7a45-4cd0-a7a2-5791cf074d8c)
-- CCNA2: Switching, Routing and Wireless Essentials *(in progress)*
-- Python Essentials 2 *(in progress)*
 
 ---
 
