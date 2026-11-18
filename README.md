@@ -90,6 +90,9 @@ I care about backend development, system programming and clean, safe, optimized 
   <a href="https://www.credly.com/badges/9e60cbfe-046e-4066-ad89-c109e731c315" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="130" height="130" alt="CCNA: Introduction to Networks (CCNA1)" />
   </a>
+  <a href="https://www.credly.com/badges/22474045-bc57-437a-8318-23dacd9ed30c" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="130" height="130" alt="CCNA: Switching, Routing, and Wireless Essentials (CCNA2)" />
+  </a>
   <a href="https://www.credly.com/badges/dd474052-c93d-4fb3-9e43-b534f910f8ad" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="130" height="130" alt="Linux Essentials" />
   </a>
